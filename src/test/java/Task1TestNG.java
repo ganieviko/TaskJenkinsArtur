@@ -20,6 +20,7 @@ public class Task1TestNG {
 
     @Test
     public void arutr4() {
+        Assert.fail();
     }
 
 
